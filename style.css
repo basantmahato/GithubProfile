@@ -60,7 +60,12 @@ body{
 
 /* For Card */
 
+#profileContainer {
+  width: 100%;
+}
+
 .profile-box{
+    margin: auto;
     width: 80%;
     max-width: 78rem;
     margin-top: 10px;
